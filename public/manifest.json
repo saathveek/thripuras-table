@@ -1,14 +1,14 @@
 {
-  "short_name": "Saathveek",
-  "name": "Portfolio of Saathveek Gowrishankar, Computer Engineer and Data Scientist",
+  "short_name": "Thripura's Table",
+  "name": "Thripura's Table: Catering",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#0f1623",
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "logo_sg.png",
-      "type": "image/png",
+      "src": "",
+      "type": "",
       "sizes": "512x512"
     }
   ]

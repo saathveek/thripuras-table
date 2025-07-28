@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "version": "1.6.1",
+  "name": "Thripura's Table",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -16,7 +16,7 @@
     "tsparticles": "^3.8.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://saathveek.com",
+  "homepage": "https://ThripurasTable.com",
   "scripts": {
     "start": "react-scripts start",
     "sync-version": "node scripts/updateVersion.js",

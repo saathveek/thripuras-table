@@ -23,35 +23,35 @@ function Hero() {
       className="min-h-screen flex items-center justify-center p-8 bg-background"
     >
       <div className="max-w-6xl w-full text-center relative">
-        {/* Profile Picture */}
+        {/* Profile Picture
         <img
           src="/Saathveek_Gowrishankar_Photo_head.png"
           alt="Saathveek"
           className=" w-40 h-40 
                       sm:w-48 sm:h-48 
                       rounded-full mx-auto mb-6 border-4 border-primary"
-        />
+        /> */}
 
         {/* Intro Text */}
-        <h1 className=" text-3xl
-                        sm:text-5xl
-                        text-text mb-2">
-          Hello, I'm <span className="text-primary">Saathveek</span>.
+        <h1 className=" text-5xl
+                        sm:text-8xl
+                        font-greatvibes text-primary mb-2">
+          Thripura's Table
         </h1>
         <h1 className=" text-3xl
                         sm:text-5xl
-                        text-text mb-8">
-          I'm a computer&nbsp;engineer and data&nbsp;scientist.
+                        font-arapey italic text-text mb-8">
+          Grab a plate and join the feast!
         </h1>
 
         {/* CTA Buttons */}
-        <div className="flex justify-center gap-4">
+        {/* <div className="flex justify-center gap-4">
           {[{
-            label: 'View Resume',
-            href: '/Saathveek_Gowrishankar_Resume.pdf',
+            label: 'View Menu',
+            href: '',
             newTab: true,
           }, {
-            label: 'Contact Me',
+            label: 'Contact Us',
             href: '/#Contact',
             newTab: false,
           }].map(({ label, href, newTab }) => (
@@ -69,16 +69,15 @@ function Hero() {
               {label}
             </a>
           ))}
-        </div>
+        </div> */}
         
-        {/*
-        {/* Disclaimer
+        
+        {/* Disclaimer */}
         <div className="text-text text-xl mt-10">
-          <p>
-            Welcome! My React portfolio is currently still in progress, but I'm always happy to connect!
-          </p>
+          <p>Hey there! Our website is currently under development, but we've started accepting orders.</p>
+          <p>Contact us at 630-242-0658 or catering@ThripurasTable.com for catering inquiries!</p>
         </div>
-        */}
+       
 
         {/* Bouncing Arrow Button */}
         {showArrow && (

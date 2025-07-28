@@ -13,7 +13,7 @@ function About() {
         <h1 className="text-4xl
                        md:text-6xl
                        font-semibold text-primary mb-6">
-          About Me
+          About Us
         </h1>
 
         {/* Description */}
@@ -29,8 +29,8 @@ function About() {
       {/* Right */}
       <div className="w-64 h-64 sm:w-80 sm:h-80 md:w-96 md:h-[28rem] flex-shrink-0">
         <img
-          src="/Saathveek_Gowrishankar_Photo_globe.png"
-          alt="Saathveek standing with his arm around a globe"
+          src="/_.png"
+          alt=""
           className="w-full h-full object-contain rounded-xl border-primary"
         />
       </div>

@@ -10,7 +10,7 @@ function Navbar() {
                         alt="Logo" 
                         className="h-9 w-9 object-contain drop-shadow-[0_0_2px_white]" 
                     />
-                    <span className="font-greatvibes text-text text-lg sm:text-3xl">Saathveek&nbsp;Gowrishankar</span>
+                    <span className="font-greatvibes text-text text-lg sm:text-3xl">Thripura's Table</span>
 
                     {/* <span className="font-semibold text-xl text-primary">Saathveek Gowrishankar</span> */}
                 </div>
